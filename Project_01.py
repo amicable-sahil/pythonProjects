@@ -24,6 +24,7 @@ for correct_word in word_list:  # here 'correct_word' contains the key value of 
         i += 1
     else:
         # This condition will execute after every 5 answers
+        print("Do you want to play more (y/n)")
         yes = input("[y/n]")
         if yes == "y":
             print("Arrange the given word to make a valid word")
