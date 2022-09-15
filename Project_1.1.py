@@ -4,10 +4,10 @@ print("Instructions:")
 print("-> Make a meaningful word with the letters giving in following question.")
 print("-> Every correct answer has 1 score and every wrong answer has -1 score.", end="\n\n")
 
-d1 = {"father": "RAEHTF", "break": "KABRE", "country": "CYROTNU"}
-d2 = {"aeroplane": "NRAEOLAEP", "orange": "AENROG", "pineapple": "LPEANIPEP"}
-d3 = {"student": "TUTNDSE", "horse": "ROSHE", "peacock": "CAOECPK"}
-d4 = {"tiger": "RGIET", "violate": "TOAILVE", "vegetable": "LETGAEBVE"}
+d1 = {"father": "RAEHTF", "break": "KABRE", "country": "CYROTNU", "green": "RENEG", "aeroplane":"OAERELANP"}
+d2 = {"programme": "EGMORMARP", "orange": "AENROG", "pineapple": "LPEANIPEP", "leboratory":"YTAOBREOLR", "welcome":"MLOECWE"}
+d3 = {"student": "TUTNDSE", "horse": "ROSHE", "peacock": "CAOECPK", "crocodile":"EDOOIRCCL", "pleasure":"UESLARPE"}
+d4 = {"tiger": "RGIET", "violate": "TOAILVE", "vegetable": "LETGAEBVE", "mountain":"NUTONAMI", "raddish":"HDASRID"}
 
 
 myList = [d1, d2, d3, d4]
